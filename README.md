@@ -1,5 +1,4 @@
-# Subject
-[libft.en.subject.pdf](https://github.com/mtoof/libft/files/11303482/libft.en.subject.pdf)
+
 
 # libft
 This project was my first project at Hive Helsinki (42 school).
@@ -25,7 +24,7 @@ same prototypes and implemented the same behaviors as the originals.
 
 # Part 2 - Additional functions
 
-**For more information and know about the prototypes read the subject**
+**For more information and know about the prototypes read the subject(https://github.com/mtoof/libft/files/11303482/libft.en.subject.pdf)**
 | function names | function names |
 |:--------------:|:--------------:|
 | ft_substr| ft_strjoin|
